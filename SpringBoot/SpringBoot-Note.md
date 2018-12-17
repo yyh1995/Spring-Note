@@ -140,7 +140,7 @@ public class HelloController {
 
 
 
-![1537439192685](/images/1537439192685.png)
+![](https://github.com/cuzz1/springboot-learning/blob/master/images/1537439192685.png)
 
 
 
